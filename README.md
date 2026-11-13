@@ -8,4 +8,4 @@ I also build web experiences and explore product ideas with AI tools.
 
 Currently building [Forthcamp](https://forthcamp.com).
 
-[LinkedIn](https://www.linkedin.com/in/tugrulcelik/) · [Personal website](https://tugrul-q9udxy8rx-tugrulioc-4939.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/tugrulcelik/) · [Personal website](https://tugrul-bio.vercel.app/)
