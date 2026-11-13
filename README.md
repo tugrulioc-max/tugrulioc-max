@@ -1,11 +1,11 @@
-# Hi, I'm Tuğrul Çelik
+### Hi, I'm Tuğrul Çelik
 
-**Enterprise Sales · Technology & SaaS · Market Development**
+**Enterprise SaaS & Cloud · Account Growth, Renewals & EMEA Market Execution**
 
-I build customer portfolios, develop sales channels, and turn enterprise technology into business opportunities. My experience spans enterprise IT, cloud, managed services, and cybersecurity.
+13 years turning complex enterprise technology into durable customer partnerships, from initial pilot and multi-stakeholder security/procurement reviews to workload expansion and multi-year renewals across Türkiye and EMEA.
 
-I also build web experiences and explore product ideas with AI tools.
+Outside of commercial execution, I use AI APIs and cloud tools to prototype practical GTM utilities:
+- Tracking enterprise tech stacks, usage signals, and contract renewal windows (side project: [Forthcamp](https://forthcamp.com))
+- Modeling consumption-to-committed-spend ROI for technical & executive buyers
 
-Currently building [Forthcamp](https://forthcamp.com).
-
-[LinkedIn](https://www.linkedin.com/in/tugrulcelik/) · [Personal website](https://tugrul-bio.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/tugrulcelik/) · [Personal Website](https://tugrul-bio.vercel.app) · [Forthcamp](https://forthcamp.com)
